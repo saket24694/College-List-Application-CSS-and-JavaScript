@@ -1,3 +1,53 @@
+# College-List-App
+
+Scroll Application [Screen size - 1440px]
+
+## Deployment Link:
+
+
+
+## Screenshot of Application
+
+![alt text](college-list-app\src\assets\Screenshot.PNG "Screenshot")
+
+## About Project:
+
+AppComponent is parent component and CardComponent is child component. <br />
+
+Infinite scrolling is achieved with Loading time - 2.5 seconds.<br/>
+
+Comments are added in code for better understanding.
+
+## Designs:
+
+Designs are strictly from Zeplin. Only CSS is used to achieve designs. <br />
+
+Project is not Responsive yet.<br />
+
+Please set the screen size to 1440px for best view.<br />
+
+Global CSS can be found in App.css and Component level CSS is in card.css.<br/>
+
+## Functionality:
+
+Functionality is working as per the requirement.<br/>
+
+Scroll: 10 colleges are initially displayed and once scrolled <br/>
+
+to the last college, next 10 colleges are appended and so on until <br/>
+
+the whole JSON gets parsed.<br/>
+
+Loading time is set for 2.5 seconds just to see the effect. We can change Loading time as per our convenience.
+
+## Github Approach:
+
+dev branch is created from Master branch. Seperate branches are created from dev branch for specific features. 
+
+## Installation
+
+Run `npm install`.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

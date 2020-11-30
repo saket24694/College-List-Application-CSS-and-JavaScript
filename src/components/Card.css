@@ -1,0 +1,640 @@
+:root {
+  --white: #d8d8d8;
+  --pumpkin-orange: #ff7900;
+  --greyish: #b7b7b7;
+  --slate: #4d586c;
+  --brownish-grey: #666666;
+  --dark-sky_blue: #4eb3d9;
+  --orange_yellow: #ffa100;
+  --blue-violet: #720dd8;
+  --white-two: #f4f4f4;
+  --marigold: #ffc100;
+  --pale-grey: #eff3f7;
+  --greyish-brown-9: rgba(68, 68, 68, 0.09);
+  --white-three: #ffffff;
+}
+
+.Card-Img {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../assets/college_02.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%; 
+  padding-bottom: 20px;
+}
+
+.Layer-10 {
+  width: 637.3px;
+  padding: 28.3px 13px 10.8px 14.3px !important;
+}
+
+.Rectangle-2 {
+  width: 135px;
+  height: 34px;
+  margin: 107px 7px 0 0;
+  padding: 11px 18px 10px 17px;
+  border-radius: 16.5px;
+  background-color: var(--white-three);
+}
+
+.infinite-scroll-component {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  overflow: hidden !important;
+}
+
+.Best-college-2018 {
+  width: 100px;
+  height: 13px;
+  font-family: DINPro;
+  font-size: 13.5px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: left;
+  color: #444444;
+  margin-left: 14.3px;
+}
+
+.kms-away {
+  width: 63px;
+  height: 13px;
+  font-family: DINPro;
+  font-size: 13.5px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: left;
+  color: #444444;
+}
+
+.Rectangle-1 {      
+  width: 90%;
+  height: auto; 
+  margin: 68px 61px 30px 0;
+  padding: 0 0 10px;
+  border-radius: 3.8px;
+  box-shadow: 0 0 19px 0 rgba(68, 68, 68, 0.1);
+  border: solid 0.2px #444444;
+  background-color: var(--white-three);
+}
+   
+.Card-body{
+  padding: 0 20px 10px 0px;
+} 
+
+.PROMOTED {
+  width: 73px;
+  height: 11px;
+  font-family: DINPro;
+  font-size: 15px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--white-three);
+}
+
+.Vector-Smart-Object {
+  width: 152px;
+  height: 33px; 
+  padding: 11px 31px 11px 0;
+  background-color: #68a7ff;
+  position: relative;
+  top: -23px;
+  right: -1px;
+}
+
+.triangle:before{
+  content:"";
+  position: absolute;
+  bottom: 0;
+  left: -50px; 
+  border-left: 25px solid transparent;
+  border-right: 25px solid #68a7ff;
+  border-top: 19px solid #68a7ff;
+  border-bottom: 20px solid #68a7ff;
+}
+
+.Rectangle-3 {
+  width: 85px;
+  margin: 0 0 70px 500px;  
+  padding: 9px;
+  border-radius: 3.8px;
+  background-color: #f5a626;
+}
+
+.-Very-Good {
+  font-family: DINPro;
+  font-size: 13.5px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--white-three);
+}
+  
+.-Very-Good .text-style-1 {
+  font-size: 18.5px;
+  font-weight: bold;
+}
+
+#-in-260-colleges-in-north-campus {
+  width: 199px;
+  height: 13px;
+  margin: 118px 1px 10px 50px;  
+  font-family: DINPro;
+  font-size: 13.5px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: left;
+  color: var(--white-three) !important; 
+}
+  
+.Discounted-Fees {
+  height: 26px;
+  margin: 3px 0 3px 96px; 
+  font-family: DINPro;
+  font-size: 28.5px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.89;
+  letter-spacing: normal;
+  text-align: center;
+  color: #dd1c26;
+}
+
+.Discounted-Fees .text-style-1 {
+  font-family: MyriadPro;
+}
+
+.Shape-2 {
+  margin: 10px 6px;
+  color: #adadad;
+}
+
+.Near-Vishwavidyalya-Metro-Station {
+  width: 196px;
+  height: 13px;
+  margin: 11px 6px 8px 15px;
+  font-family: "DINPro";
+  font-size: 13.5px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: center;
+  color: #444444 !important;
+}
+
+.Vector-Smart-Object1 {
+  width: 29px;
+  height: 14px;
+  margin: 12px 27px 12px 4px;
+  padding: 3px 6px 2px;
+  background-color: #dd1c26;
+  position: relative;
+}
+
+.Discount-Font{
+  width: 10px;
+  height: 9px;
+  margin: 0 0 0 2px;
+  font-family: DINPro;
+  font-size: 11px !important;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.64;
+  letter-spacing: normal;
+  text-align: center;
+  color: var(--white-three);    
+}
+
+.Vector-Smart-Object1:before{
+  content:'';
+  position: absolute;
+  bottom: 0;
+  right: 23px; 
+  border-left: 10px solid transparent;
+  border-right: 10px solid #dd1c26;
+  border-top: 8px solid transparent;
+  border-bottom: 10px solid transparent;
+}
+
+.Ellipse-2:before {
+  content:":";
+  width: 5px;
+  height: 4px;
+  margin: 2px 2px 3px 0;
+  background-color: var(--white-three);
+}
+ 
+.Original-Price {
+  width: 37px;
+  height: 10px;
+  margin: 15px 4px 13px 8px; 
+  font-family: DINPro;
+  font-size: 11px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.64;
+  letter-spacing: normal;
+  text-align: center;
+  color: #444444;
+}
+  
+.text-style-1 {
+  font-family: Myriad Pro;
+  font-weight: normal;
+}
+
+.-Match-25kms-from-GTB-Nagar-7-Kms-from-Rajiv-Chowk {
+  width: 358px;
+  height: 13px;
+  margin: 12px 58px 9px 17px;
+  font-family: DINPro;
+  font-size: 13.5px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: center;
+  color: #adadad;
+}
+
+.-Match-25kms-from-GTB-Nagar-7-Kms-from-Rajiv-Chowk .text-style-1 {
+  font-weight: bold;
+  color: #37b396;
+}
+
+.-Match-25kms-from-GTB-Nagar-7-Kms-from-Rajiv-Chowk .text-style-2 {
+  font-weight: bold;
+  color: #444444;
+}
+
+.Free-Wi-Fi {
+  width: 60px;
+  height: 10px;
+  font-family: DINPro;
+  font-size: 13.5px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: center;
+  color: #37b396;
+}
+
+.Free-Cancellation {
+  width: 101px;
+  height: 10px;
+  font-family: DINPro;
+  font-size: 13.5px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: center;
+  color: #37b396;
+}
+
+.Ellipse-1 {
+  width: 4px;
+  height: 4px;
+  margin: 24px 5px 16px;
+  color: #37b396;
+}
+
+.Layer-0 {
+  width: 1440px;
+  height: 995px;
+  padding: 49px 50px 32px 51px;
+  background-color: var(--white-three);
+}
+
+.Rectangle-4 {
+  width: 347px;
+  height: 35px;
+  margin: 9px 0 0 0;
+  padding: 11px 21px 11px 17px;
+  background-color: #ccf5e7;
+  border-radius: 0 30px 30px 0;
+}
+
+.Flat-Rs2000-off-upto-Rs-500-wallet-to-avail-LOGIN {
+  font-family: DINPro;
+  font-size: 13.5px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: center;
+  color: #444444;
+}
+  
+.Flat-Rs2000-off-upto-Rs-500-wallet-to-avail-LOGIN .text-style-1 {
+  font-weight: 500;
+}
+  
+.Flat-Rs2000-off-upto-Rs-500-wallet-to-avail-LOGIN .text-style-2 {
+  color: #4bb89e;
+}
+
+.Flat-Rs2000-off-upto-Rs-500-wallet-to-avail-LOGIN .text-style-3 {
+  color: #1999d2;
+}
+
+.rating:after{
+  content: '★';
+  width: 12px;
+  height: 11px;
+  font-size: 12px;
+  color: #444444;
+}
+
+.rating1:after{
+  content: '★';
+  width: 12px;
+  height: 11px;
+  opacity: 0.5;
+  font-size: 11px;
+  color: #444444;
+}
+
+.Per-Semester-3months {
+  height: 10px;
+  font-family: Myriad Pro;
+  font-size: 11px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.64;
+  letter-spacing: normal;
+  text-align: center;
+  color: #444444;
+  margin-left: 67px;
+}
+  
+.Hansraj-College-Delhi-University {
+  width: 260px;
+  height: 17px;
+  margin: 18px 11px 3px 15px;
+  font-family: DINPro !important;
+  font-size: 18.5px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 0.97;
+  letter-spacing: normal;
+  text-align: center;
+  color: #444444;
+}
+
+.-Kms-away-from-bus-stand {
+  width: 157px;
+  height: 13px;
+  font-family: DINPro;
+  font-size: 13.5px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: center;
+  color: #adadad;
+}
+
+@media screen and (max-width: 575.98px) {
+
+}
+  
+@media screen and (min-width: 576px) and ( max-width: 991.98px) {
+
+}
+
+@media screen and (max-width: 992px) {
+
+}
+
+@media screen and (max-width: 1394px) {
+  .Rectangle-3 {
+    width: 85px;
+    margin: 0 0 70px 500px;        
+  }
+}
+
+@media screen and (max-width: 1371px) {
+  .Flat-Rs2000-off-upto-Rs-500-wallet-to-avail-LOGIN {
+    font-size: 12px;
+  }
+  .Rectangle-3 {
+    width: 85px;   
+    margin: 0 0 70px 480px;           
+  }    
+}
+
+@media screen and (max-width: 1338px) {
+  .Hansraj-College-Delhi-University {
+    font-size:15px;
+  }
+  .Card-Img{
+    padding-bottom: 15px;
+  }
+  .Rectangle-3{
+    margin: 0 0 70px 465px;     
+  }
+  .Discounted-Fees {
+    margin: 3px 0 3px 75px;
+  }
+  .Per-Semester-3months {
+    margin-left:40px;
+  }
+  .-Match-25kms-from-GTB-Nagar-7-Kms-from-Rajiv-Chowk{
+    font-size:11.5px;
+  }
+  #-in-260-colleges-in-north-campus {   
+    margin: 118px 1px 10px 30px;  
+  }  
+}
+
+@media screen and (max-width: 1300px) {
+  .Rectangle-3 {   
+    margin: 0 0 50px 450px;         
+  }
+  .Near-Vishwavidyalya-Metro-Station {
+    font-size: 11px;
+  }
+  .-Kms-away-from-bus-stand {
+    font-size:11px;
+  }    
+  .Best-college-2018 {
+    font-size: 11px;
+  }
+  .kms-away {
+    font-size: 11px;
+  }
+  .Free-Wi-Fi {
+    font-size: 11px;
+  }
+  .Free-Cancellation {
+    font-size: 11px;
+  }
+  #-in-260-colleges-in-north-campus {
+    font-size: 12px;
+  }
+  .Flat-Rs2000-off-upto-Rs-500-wallet-to-avail-LOGIN {
+    font-size: 10px;
+  }
+  .PROMOTED {
+    font-size: 15px;
+  }
+}
+
+@media screen and (max-width: 1254px) {
+  .Rectangle-3{
+    margin: 0 0 50px 430px;  
+  }
+  .Flat-Rs2000-off-upto-Rs-500-wallet-to-avail-LOGIN {
+    font-size: 8px;
+    padding: 11px 10px 11px 10px;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .Flat-Rs2000-off-upto-Rs-500-wallet-to-avail-LOGIN {
+    font-size: 5px;
+    padding: 11px 8px 11px 8px;
+  }
+  .Rectangle-3{
+    margin: 0 0 50px 400px;    
+  }
+  .Discounted-Fees {
+    font-size: 24px;
+  }
+  .Shape-2 {
+    margin: 10px 0 ;
+  }
+  .Near-Vishwavidyalya-Metro-Station {
+    font-size: 10px;
+  }
+  .-Kms-away-from-bus-stand {
+    font-size:10px;
+  }
+  .Per-Semester-3months {
+    margin-left: 20px;
+  }
+}
+
+@media screen and (max-width: 1175px) {
+  .Hansraj-College-Delhi-University {
+    margin: 18px 5px 3px 8px;
+  }
+  .Near-Vishwavidyalya-Metro-Station {
+    margin: 11px 3px 8px 9px;
+  }
+  .Flat-Rs2000-off-upto-Rs-500-wallet-to-avail-LOGIN{
+    padding: 11px 2px 11px 4px;
+  }
+  .-Very-Good {
+    font-size: 11px;
+  }
+  .Rectangle-3{
+    padding:5px;
+    margin: 0 0 46px 396px; 
+  }
+  .Discounted-Fees {
+    margin: 3px 0 3px 60px;
+  }
+  .Rectangle-2{
+    padding: 7px 13px 7px 13px;
+  }
+  .Ellipse-1{
+    margin: 24px 1px 16px;
+  }
+  .Free-Wi-Fi {
+    font-size: 9px;
+    width:auto;
+  }
+  .Free-Cancellation {
+    font-size: 9px;
+    width:auto;
+  }
+  .-Match-25kms-from-GTB-Nagar-7-Kms-from-Rajiv-Chowk {
+    margin: 12px 58px 9px 8px;
+  }
+  .Card-body {
+    padding: 0 14px 10px 0px;
+  }
+}
+
+@media screen and (max-width: 1125px) {
+  .Rectangle-3{ 
+    margin: 0 0 46px 370px; 
+  }
+  .Card-body {
+    padding: 0 4px 10px 0px;
+  }
+  #-in-260-colleges-in-north-campus {
+    font-size: 10px;
+    margin: 118px 1px 10px 8px;
+  }
+  .Per-Semester-3months {
+    font-size:9px;
+  }
+}
+
+@media screen and (max-width: 1090px) {
+  .Rectangle-3{   
+    margin: 0 0 46px 365px; 
+  }
+  .Card-Img{
+    padding-bottom: 8px;
+  }
+  .Rectangle-1{
+    width: 93%;
+  }
+  .Near-Vishwavidyalya-Metro-Station {
+    margin: 11px 3px 8px 5px;
+    font-size: 9px;
+  }
+  .-Kms-away-from-bus-stand {
+    font-size:9px;
+  }
+}
+
+@media screen and (max-width: 1037px) {
+  .Rectangle-1{
+    width: 95%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .Rectangle-1{
+    width: 80%;
+  }
+  .infinite-scroll-component {
+    display: grid;
+    grid-template-columns: 100%;
+    overflow: hidden !important;
+  }
+  .Rectangle-3{   
+     margin: 0 0 46px 650px; 
+  }
+} 
