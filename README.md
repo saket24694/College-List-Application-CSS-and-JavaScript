@@ -1,14 +1,12 @@
 # College-List-App
 
-Scroll Application [Screen size - 1440px]
+Scroll Application [Screen size - 1440px]<br/>
 
-## Deployment Link:
-
-
+Time Taken - 4hrs
 
 ## Screenshot of Application
 
-![alt text](college-list-app\src\assets\Screenshot.PNG "Screenshot")
+![alt text](Screenshot.PNG "Screenshot")
 
 ## About Project:
 
@@ -16,7 +14,7 @@ AppComponent is parent component and CardComponent is child component. <br />
 
 Infinite scrolling is achieved with Loading time - 2.5 seconds.<br/>
 
-Comments are added in code for better understanding.
+Comments are added for better understanding in code.
 
 ## Designs:
 
@@ -32,11 +30,9 @@ Global CSS can be found in App.css and Component level CSS is in card.css.<br/>
 
 Functionality is working as per the requirement.<br/>
 
-Scroll: 10 colleges are initially displayed and once scrolled <br/>
+Scroll: 10 colleges are initially displayed and once scrolled to the last college, <br/>
 
-to the last college, next 10 colleges are appended and so on until <br/>
-
-the whole JSON gets parsed.<br/>
+next 10 colleges are appended and so on until the whole JSON gets parsed.<br/>
 
 Loading time is set for 2.5 seconds just to see the effect. We can change Loading time as per our convenience.
 
