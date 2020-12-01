@@ -6,7 +6,12 @@ Time Taken - 4hrs<br/>
 
 Project is Responsive for large screens only [Width- 1045px to 1440px] <br/>
 
-<b>For Best view please set screen size to 1440px.</b> [Made strictly according to Zeplin designs for width 1440px]
+<b>For Best view please set screen size to 1440px.</b> [Made strictly according to Zeplin designs for width 1440px]<br/>
+
+## Heroku Deployment link
+
+https://college-list-new.herokuapp.com/
+
 
 ## Screenshot of Application for large screen devices [Width:1440px]
 
