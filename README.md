@@ -12,6 +12,7 @@ Project is Responsive for large screens only [Width- 1045px to 1440px] <br/>
 
 https://college-list-new.herokuapp.com/
 
+
 ## Screenshot of Application for large screen devices [Width:1440px]
 
 ![alt text](Screenshot.PNG "Screenshot")
