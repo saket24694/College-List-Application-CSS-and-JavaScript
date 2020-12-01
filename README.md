@@ -4,7 +4,9 @@ Scroll Application <b>[Screen size - 1440px]</b><br/>
 
 Time Taken - 4hrs<br/> 
 
-Project is not Responsive. [Made strictly according to Zeplin design for width 1440px]
+Project is Responsive for large screens only [Width- 1045px to 1440px] <br/>
+
+<b>For Best view please set screen size to 1440px.</b> [Made strictly according to Zeplin designs for width 1440px]
 
 ## Screenshot of Application for large screen devices [Width:1440px]
 
@@ -16,13 +18,13 @@ AppComponent is parent component and CardComponent is child component. <br />
 
 Infinite scrolling is achieved with Loading time - 2.5 seconds.<br/>
 
-Comments are added for better understanding in code.
+Comments are added for better understanding of code.
 
 ## Designs:
 
 Designs are strictly from Zeplin. Only CSS is used to achieve designs. <br />
 
-<b>Project is not Responsive yet.</b><br />
+<b>Project is not fully Responsive yet.</b><br />
 
 Please set the screen size to 1440px for best view according to Zeplin designs.<br />
 
