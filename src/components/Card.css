@@ -122,7 +122,7 @@
 
 .Rectangle-3 {
   width: 85px;
-  margin: 0 0 70px 500px;  
+  margin: 0 0 70px 495px;  
   padding: 9px;
   border-radius: 3.8px;
   background-color: #f5a626;
@@ -436,7 +436,7 @@
 @media screen and (max-width: 1394px) {
   .Rectangle-3 {
     width: 85px;
-    margin: 0 0 70px 500px;        
+    margin: 0 0 70px 480px;        
   }
 }
 
@@ -446,8 +446,23 @@
   }
   .Rectangle-3 {
     width: 85px;   
-    margin: 0 0 70px 480px;           
-  }    
+    margin: 0 0 70px 460px;           
+  }
+  #-in-260-colleges-in-north-campus {   
+    margin: 118px 1px 10px 30px;  
+  }
+  .Near-Vishwavidyalya-Metro-Station {
+    margin: 11px 3px 8px 12px;
+  }
+  .Ellipse-1{
+    margin: 24px 4px 16px;
+  }
+  .Discounted-Fees {
+    margin: 3px 0 3px 75px;
+  }
+  .Per-Semester-3months {
+    margin-left:40px;
+  }      
 }
 
 @media screen and (max-width: 1338px) {
@@ -458,7 +473,7 @@
     padding-bottom: 15px;
   }
   .Rectangle-3{
-    margin: 0 0 70px 465px;     
+    margin: 0 0 70px 445px;     
   }
   .Discounted-Fees {
     margin: 3px 0 3px 75px;
@@ -472,11 +487,29 @@
   #-in-260-colleges-in-north-campus {   
     margin: 118px 1px 10px 30px;  
   }  
+  .Free-Cancellation {
+    font-size: 12px;
+  }
+  .Free-Wi-Fi {
+    font-size: 12px;
+  }
+  .Ellipse-1{
+    margin: 24px 4px 16px;
+  }
+  .Shape-2{
+    margin: 10px 3px;
+  }
+  .Near-Vishwavidyalya-Metro-Station {
+    font-size: 12px;
+  }
+  .-Kms-away-from-bus-stand {
+    font-size:12px;
+  }
 }
 
 @media screen and (max-width: 1300px) {
   .Rectangle-3 {   
-    margin: 0 0 50px 450px;         
+    margin: 0 0 50px 428px;         
   }
   .Near-Vishwavidyalya-Metro-Station {
     font-size: 11px;
@@ -505,11 +538,17 @@
   .PROMOTED {
     font-size: 15px;
   }
+  .Discounted-Fees {
+    margin: 3px 0 3px 65px;
+  }
+  .Per-Semester-3months {
+    margin-left:30px;
+  }
 }
 
 @media screen and (max-width: 1254px) {
   .Rectangle-3{
-    margin: 0 0 50px 430px;  
+    margin: 0 0 50px 405px;  
   }
   .Flat-Rs2000-off-upto-Rs-500-wallet-to-avail-LOGIN {
     font-size: 8px;
@@ -517,13 +556,13 @@
   }
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1202px) {
   .Flat-Rs2000-off-upto-Rs-500-wallet-to-avail-LOGIN {
     font-size: 5px;
     padding: 11px 8px 11px 8px;
   }
   .Rectangle-3{
-    margin: 0 0 50px 400px;    
+    margin: 0 0 50px 385px;    
   }
   .Discounted-Fees {
     font-size: 24px;
@@ -539,6 +578,9 @@
   }
   .Per-Semester-3months {
     margin-left: 20px;
+  }
+  .Flat-Rs2000-off-upto-Rs-500-wallet-to-avail-LOGIN{
+    padding: 11px 2px 11px 4px;
   }
 }
 
@@ -557,7 +599,7 @@
   }
   .Rectangle-3{
     padding:5px;
-    margin: 0 0 46px 396px; 
+    margin: 0 0 46px 375px; 
   }
   .Discounted-Fees {
     margin: 3px 0 3px 60px;
@@ -584,9 +626,30 @@
   }
 }
 
-@media screen and (max-width: 1125px) {
+@media screen and (max-width: 1151px) {
+  .Rectangle-3{
+    padding:5px;
+    margin: 0 0 46px 358px; 
+  }
+  #-in-260-colleges-in-north-campus {
+    font-size: 10px;
+    margin: 118px 1px 10px 8px;
+  }
+  .Near-Vishwavidyalya-Metro-Station {
+    margin: 11px 1px 8px 5px;
+    font-size: 8px;
+  }
+  .-Kms-away-from-bus-stand {
+    font-size:8px;
+  }
+  .Flat-Rs2000-off-upto-Rs-500-wallet-to-avail-LOGIN{
+    padding: 11px 0 11px 2px;
+  }
+}
+
+@media screen and (max-width: 1131px) {
   .Rectangle-3{ 
-    margin: 0 0 46px 370px; 
+    margin: 0 0 46px 345px; 
   }
   .Card-body {
     padding: 0 4px 10px 0px;
@@ -596,13 +659,25 @@
     margin: 118px 1px 10px 8px;
   }
   .Per-Semester-3months {
-    font-size:9px;
+    font-size:8px;
+    margin-left: 10px;
+  }
+  .Flat-Rs2000-off-upto-Rs-500-wallet-to-avail-LOGIN{
+    padding: 11px 0 11px 0;
+  }
+  .-Match-25kms-from-GTB-Nagar-7-Kms-from-Rajiv-Chowk {
+    margin: 12px 58px 9px 5px;
+    font-size: 9px;
+  }
+  .Hansraj-College-Delhi-University {
+    margin: 18px 5px 3px 4px;
   }
 }
 
-@media screen and (max-width: 1090px) {
+@media screen and (max-width: 1110px) {
   .Rectangle-3{   
-    margin: 0 0 46px 365px; 
+    margin: 0 0 46px 360px;
+    padding: 4px; 
   }
   .Card-Img{
     padding-bottom: 8px;
@@ -616,6 +691,57 @@
   }
   .-Kms-away-from-bus-stand {
     font-size:9px;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .Flat-Rs2000-off-upto-Rs-500-wallet-to-avail-LOGIN {
+    font-weight: normal;
+    padding: 11px 5px 11px 2px;
+  }
+}
+
+@media screen and (max-width: 1080px) {
+  .Rectangle-3{   
+    margin: 0 0 46px 345px;
+    padding: 4px; 
+  }
+  .Near-Vishwavidyalya-Metro-Station {
+    margin: 11px 0 8px 3px;
+    font-size: 8px;
+  }
+  .-Kms-away-from-bus-stand {
+    font-size:8px;
+  }
+  .-Match-25kms-from-GTB-Nagar-7-Kms-from-Rajiv-Chowk {
+    margin: 12px 58px 9px 4px;
+    font-size: 8px;
+  }
+}
+
+@media screen and (max-width: 1065px) {
+  .Ellipse-1 {
+    margin: 24px 0px 16px;
+  }
+  .Near-Vishwavidyalya-Metro-Station {
+    margin: 11px 0 8px 1px;
+    font-size: 8px;
+  }
+}
+
+@media screen and (max-width: 1057px) {
+  .Ellipse-1 {
+    margin: 24px 0px 16px;
+  }
+  .Near-Vishwavidyalya-Metro-Station {
+    margin: 11px 0 8px 0;
+    font-size: 8px;
+  }
+  .Rectangle-1{
+    width: 94%;
+  }
+  .Hansraj-College-Delhi-University {
+    margin: 18px 5px 3px 2px;
   }
 }
 
